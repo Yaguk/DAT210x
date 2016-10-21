@@ -2,13 +2,14 @@ import pandas as pd
 
 # TODO: Load up the 'tutorial.csv' dataset
 #
-# .. your code here ..
+# load up the 'module2/datasets/tutorial.csv'
+
 
 
 
 # TODO: Print the results of the .describe() method
 #
-# .. your code here ..
+# print.describe()
 
 
 
@@ -16,5 +17,5 @@ import pandas as pd
 # use in order to index your dataframe with: [2:4,'col3']
 # And print the results
 #
-# .. your code here ..
+# print[2:4, 'col3']
 
