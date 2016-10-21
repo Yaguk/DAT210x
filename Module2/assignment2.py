@@ -2,15 +2,14 @@ import pandas as pd
 
 # TODO: Load up the 'tutorial.csv' dataset
 #
-# load'tutorial.csv'
-print.df
+# df=pd.read_excel('tutorial.csv')
 
 
 
 
 # TODO: Print the results of the .describe() method
 #
-# print.describe()
+# print df.describe()
 
 
 
